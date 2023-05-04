@@ -1,7 +1,7 @@
 # Movies_Review_Sentiment_Analysis_NLP
 
 <h3>Dataset Link1 : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</h3>
-<h3>Dataset Link2 : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</h3>
+<h3>Dataset Link2 : https://drive.google.com/file/d/1zEU9MhHKJ4FXkjr33dhXxqpJ-FBzAzyY/view?usp=share_link</h3>
 <br>
 
 <br>
